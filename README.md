@@ -10,6 +10,14 @@ Playing is simple. The game begins with a full deck of 52 playing cards randomly
 
 This version doesn't include the "Microsoft 32,000" catalogue (hence each game is just random). An addition is the option of auto-completion (called auto stack in the game) instead of always having it.
 
+## Requirements
+
+### Python 3
+https://www.python.org/downloads
+
+### Pygame
+https://www.pygame.org/wiki/GettingStarted
+
 ## Gameplay
 
 ![](https://github.com/tianxiaozhang1/Freecell/blob/main/freecell01.gif)
